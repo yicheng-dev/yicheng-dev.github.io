@@ -4,6 +4,8 @@
 
 >[Switch to English Homepage](https://yicheng-dev.github.io/)
 
+### 黄奕诚
+
 新加坡国立大学苏州研究院人工智能实验室 助理研究员
 
 **邮箱：** yicheng.huang AT nusri DOT cn
