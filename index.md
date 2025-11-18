@@ -1,7 +1,8 @@
 <!-- | [个人简介](#个人简介) | [教育经历](#教育经历) | [技能](#技能) | [荣誉奖项](#荣誉与奖项) | [服务经历](#服务与经历) | [科研项目](#科研与项目) | [个人博客](https://njubroccoli.github.io/blog/) -->
 
-| [Home](https://yicheng-dev.github.io/) | [Blog](https://yicheng-dev.github.io/blog/) | [切换至中文主页](https://yicheng-dev.github.io/index-zh.html) | 
+<!-- | [Home](https://yicheng-dev.github.io/) | [Blog](https://yicheng-dev.github.io/blog/) | [切换至中文主页](https://yicheng-dev.github.io/index-zh.html) |  -->
 
+[切换至中文主页](https://yicheng-dev.github.io/index-zh.html)
 
 # Yicheng Huang (黄奕诚)
 
