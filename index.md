@@ -2,9 +2,7 @@
 
 <!-- | [Home](https://yicheng-dev.github.io/) | [Blog](https://yicheng-dev.github.io/blog/) | [切换至中文主页](https://yicheng-dev.github.io/index-zh.html) |  -->
 
-[切换至中文主页](https://yicheng-dev.github.io/index-zh.html)
-
-# Yicheng Huang (黄奕诚)
+>[切换至中文主页](https://yicheng-dev.github.io/index-zh.html)
 
 Assistant Investigator at the AI Lab, NUS (Suzhou) Research Institute
 

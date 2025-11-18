@@ -2,9 +2,7 @@
 
 <!-- | [首页](https://yicheng-dev.github.io/index-zh.html) | [博客](https://yicheng-dev.github.io/blog/) | [切换至英文主页](https://yicheng-dev.github.io/) | -->
 
-[Switch to English Homepage](https://yicheng-dev.github.io/)
-
-# 黄奕诚 (Yicheng Huang)
+>[Switch to English Homepage](https://yicheng-dev.github.io/)
 
 新加坡国立大学苏州研究院人工智能实验室 助理研究员
 
