@@ -20,7 +20,7 @@
 
 - <img src="pic/nus.jpeg" style="zoom:0.6%;" /> **新加坡国立大学苏州研究院** (2024年1月至今)，江苏苏州
   + 人工智能实验室助理研究员
-  + 从事“AI+教育”产品 [Coursemology Child](https://child.coursemology.cn) 的全栈开发（React+Golang）、AI Agent开发（基于大模型的AI出题、批改、答疑、伴学，涵盖教学全过程）、软件测试与部署维护
+  + 从事“AI+教育”产品 [Coursemology Child](https://child.coursemology.cn) 的全栈开发（React+Golang）、AI Agent研发（基于大模型的AI出题、批改、答疑、伴学，涵盖教学全过程）、软件测试与部署维护
 
 - <img src="pic/wx.jpeg" style="zoom:5%;" /> **无锡市公安局网安支队** (2023年8月 - 2023年12月)，江苏无锡
   + 公务员（民警）& 选调生
@@ -35,6 +35,7 @@
 
 - <img src="pic/nju.jpeg" style="zoom:1.9%;" /> **南京大学** (2016年9月 - 2020年6月)，江苏南京
   + 取得理学学士学位（计算机科学与技术专业）
+  + 基础学科拔尖计划-计算机科学班
 
 - <img src="pic/nj.jpeg" style="zoom:2%;" /> **江苏省南菁高级中学** (2013年9月 - 2016年6月)，江苏江阴
 
@@ -83,7 +84,7 @@
 ## 兴趣爱好
 
 - 📷 摄影 (富士 X-T30ii & 🤫 对象的松下 G100M)
-- 📺 看B站视频 ([@食贫道](https://space.bilibili.com/39627524)的粉丝)
+- 📺 看B站视频 ([@食贫道](https://space.bilibili.com/39627524)包月充电中)
 - 📚 阅读 (历史与科幻)
 - 🚶 旅行 (从中国到世界)
 

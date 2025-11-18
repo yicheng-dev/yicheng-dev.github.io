@@ -18,7 +18,7 @@ I have obtained a B.Sc. degree and a M.Sc. degree from Nanjing University, both 
 
 - <img src="pic/nus.jpeg" style="zoom:0.6%;" /> **NUS (Suzhou) Research Institute** (Jan 2024 - ), Suzhou, China
   + Assistant Investigator@AI Lab
-  + Full-stack Development (React+Golang), AI Agent Development (LLM-based Question Generation, Grading, Q&A, Peer Learning, covering the entire teaching process), Testing, and Deployment of the AI4Edu Product [Coursemology Child](https://child.coursemology.cn)
+  + Full-stack Development (React+Golang), AI Agent Development (LLM-based Question Generation, Grading, Q&A, Peer Learning, covering the entire teaching process), Testing, and Deployment of the AI4Edu Product [Coursemology Child](https://child.coursemology.cn).
 
 - <img src="pic/wx.jpeg" style="zoom:5%;" /> **Wuxi Public Security Bureau** (Aug 2023 - Dec 2023), Wuxi, China
   + Civil Servant (Police) & "Selected Graduates"
@@ -33,6 +33,7 @@ I have obtained a B.Sc. degree and a M.Sc. degree from Nanjing University, both 
 
 - <img src="pic/nju.jpeg" style="zoom:1.9%;" /> **Nanjing University** (Sep 2016 - Jun 2020), Nanjing, China
   + Received a B.Sc. Degree in Computer Science and Technology
+  + Class of Elite Training Plan in Computer Science
 
 - <img src="pic/nj.jpeg" style="zoom:2%;" /> **Nanjing Senior High School of Jiangsu Province** (Sep 2013 - Jun 2016), Jiangyin, China
 
@@ -59,7 +60,7 @@ I have obtained a B.Sc. degree and a M.Sc. degree from Nanjing University, both 
 - **Student Affairs** in Nanjing University
   + Vice Chairman of the Graduate Student Union of the Department of Computer Science and Technology (Jun 2021 - Jun 2022)
   + Director of the Comprehensive Affairs Center of the Social Practice Department of the Youth League Committee (Oct 2021 - Sep 2022)
-  + Class Leader of the 2016 Elite-Plan Class of the Department of Computer Science and Technology (Sep 2016 - Jun 2020)
+  + Class Leader of the 2016 Elite Training Plan Class of the Department of Computer Science and Technology (Sep 2016 - Jun 2020)
 
 ## Honors & Awards
 
@@ -68,7 +69,7 @@ I have obtained a B.Sc. degree and a M.Sc. degree from Nanjing University, both 
 
 - **Scholarships**
   + Tencent Scholarship (2021) from Tencent
-  + Elite-Plan Scholarships (1st Prize@2019, 2nd Prize@2018, 3rd Prize@2017) from NJU
+  + Elite Training Plan Scholarships (1st Prize@2019, 2nd Prize@2018, 3rd Prize@2017) from NJU
 
 - **Competition Awards**
   + Special Prize (School Level) and Second Prize (Province Level) on the Undergraduate Thesis (2020)
