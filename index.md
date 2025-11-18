@@ -1,6 +1,6 @@
 <!-- | [个人简介](#个人简介) | [教育经历](#教育经历) | [技能](#技能) | [荣誉奖项](#荣誉与奖项) | [服务经历](#服务与经历) | [科研项目](#科研与项目) | [个人博客](https://njubroccoli.github.io/blog/) -->
 
-| [Home](https://yicheng-dev.github.io/) | [Blog](https://yicheng-dev.github.io/blog/) | 
+| [Home](https://yicheng-dev.github.io/) | [Blog](https://yicheng-dev.github.io/blog/) | [切换至中文主页](https://yicheng-dev.github.io/index-zh.html) | 
 
 
 # Yicheng Huang (黄奕诚)
@@ -13,13 +13,13 @@ Assistant Investigator at the AI Lab, NUS (Suzhou) Research Institute
 
 ## Bio
 
-I have obtained a B.Sc. degree and an M.Sc. degree from Nanjing University, both majoring in Computer Science and Technology. After graduation, I became a civil servant in Wuxi, later resigned and joined the industry. Since Jan 2024, I have been working in the AI Lab of NUSRI (Suzhou) and performs AI-related research and application development. My area of interest includes AI for Education/Science/Software.
+I have obtained a B.Sc. degree and an M.Sc. degree from Nanjing University, both majoring in Computer Science and Technology. After graduation, I became a civil servant (police on network security) in Wuxi, later resigned and joined the industry. Since Jan 2024, I have been working in the AI Lab of NUSRI (Suzhou) and performs AI-related research and application development. My research interest includes AI for Education/End-user Software.
 
 ## Work Experience
 
 - <img src="pic/nus.jpeg" style="zoom:0.6%;" /> **NUS (Suzhou) Research Institute** (Jan 2024 - ), Suzhou, China
   + Assistant Investigator@AI Lab
-  + Research on AI for Education & Backend Development, Testing, and Deployment
+  + Full-stack Development (React+Golang), AI Agent Development (LLM-based Question Generation, Grading, Q&A, Peer Learning, covering the entire teaching process), Testing, and Deployment of the AI4Edu Product [Coursemology Child](https://child.coursemology.cn)
 
 - <img src="pic/wx.jpeg" style="zoom:5%;" /> **Wuxi Public Security Bureau** (Aug 2023 - Dec 2023), Wuxi, China
   + Civil Servant (Police) & "Selected Graduates"
@@ -29,7 +29,7 @@ I have obtained a B.Sc. degree and an M.Sc. degree from Nanjing University, both
 
 - <img src="pic/nju.jpeg" style="zoom:1.9%;" /> **Nanjing University** (Sep 2020 - Jun 2023), Nanjing, China
   + Received an M.Sc. Degree in Computer Science and Technology
-  + Institute of Computer Software, Department of Computer Science and Technology
+  + [SPAR Group, Institute of Computer Software](https://ics.nju.edu.cn)
   + Advisors: [Prof. Chang Xu](https://cs.nju.edu.cn/changxu/index.htm) and [Prof. Yanyan Jiang](https://ics.nju.edu.cn/~jyy/)
 
 - <img src="pic/nju.jpeg" style="zoom:1.9%;" /> **Nanjing University** (Sep 2016 - Jun 2020), Nanjing, China
@@ -39,9 +39,9 @@ I have obtained a B.Sc. degree and an M.Sc. degree from Nanjing University, both
 
 ## Pubs & Patents
 
-1. **Yicheng Huang**, Chang Xu, Yanyan Jiang, Huiyan Wang, and Da Li, "WARDER: Towards Effective Spreadsheet Defect Detection by Validity-based Cell Cluster Refinements", Journal of Systems and Software (JSS), Volume 167, 2020, 110615. <a href="https://doi.org/10.1016/j.jss.2020.110615">[web]</a> <a href="https://njubroccoli.github.io/publications/huang_2020_warder.pdf">[pdf]</a> (Implemented in Java)
-2. 蒋炎岩，**黄奕诚**，许畅. 一种电子表格公式计算规则逆向工程方法. 发明专利，申请号: 2023103290575. 申请日: 2023.03.30. (Implemented in Python)
-3. 许畅，蒋炎岩，**黄奕诚**，陈钦霖，石丰民. 基于视频动态分析的电子表格公式合成与错误检测方法. 发明专利，专利号: ZL2019113070147. 授权公告日: 2023.04.25. (Implemented in Java/Android)
+1. **Yicheng Huang**, Chang Xu, Yanyan Jiang, Huiyan Wang, and Da Li, "WARDER: Towards Effective Spreadsheet Defect Detection by Validity-based Cell Cluster Refinements", Journal of Systems and Software (JSS), Volume 167, 2020, 110615. <a href="https://doi.org/10.1016/j.jss.2020.110615">[web]</a> <a href="https://njubroccoli.github.io/publications/huang_2020_warder.pdf">[pdf]</a>
+2. 蒋炎岩，**黄奕诚**，许畅. 一种电子表格公式计算规则逆向工程方法. 发明专利，申请号: 2023103290575. 申请日: 2023.03.30.
+3. 许畅，蒋炎岩，**黄奕诚**，陈钦霖，石丰民. 基于视频动态分析的电子表格公式合成与错误检测方法. 发明专利，专利号: ZL2019113070147. 授权公告日: 2023.04.25.
 
 <!-- ## Projects
 
@@ -82,5 +82,8 @@ I have obtained a B.Sc. degree and an M.Sc. degree from Nanjing University, both
 ## Hobbies
 
 - 📷 Photograph (Fujifilm X-T30ii & 🤫 My GF's Lumix G100M)
+- 📺 Watching Bilibili Videos (Fans of [@食贫道](https://space.bilibili.com/39627524))
 - 📚 Reading (History & Sci-fi)
 - 🚶 Travelling (from China to the World)
+
+> Last Updated: Nov 18, 2025
