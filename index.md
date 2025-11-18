@@ -12,7 +12,7 @@ Assistant Investigator at the AI Lab, NUS (Suzhou) Research Institute
 
 ## Bio
 
-I have obtained a B.Sc. degree and an M.Sc. degree from Nanjing University, both majoring in Computer Science and Technology. After graduation, I became a civil servant (police on network security) in Wuxi, later resigned and joined the industry. Since Jan 2024, I have been working in the AI Lab of NUSRI (Suzhou) and performs AI-related research and application development. My research interest includes AI for Education/End-user Software.
+I have obtained a B.Sc. degree and an M.Sc. degree from Nanjing University, both majoring in Computer Science and Technology. After graduation, I became a civil servant (police on network security) in Wuxi, later resigned and joined the industry. Since Jan 2024, I have been working in the AI Lab of NUSRI (Suzhou) and performs AI-related research and application development. My research interests include but are not limited to AI for Education and End-user Software.
 
 ## Work Experience
 
