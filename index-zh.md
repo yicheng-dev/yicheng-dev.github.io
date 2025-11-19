@@ -34,7 +34,7 @@
   + 导师：[许畅教授](https://cs.nju.edu.cn/changxu/index.htm) 和 [蒋炎岩副教授](https://ics.nju.edu.cn/~jyy/)
 
 - <img src="pic/nju.jpeg" style="zoom:1.9%;" /> **南京大学** (2016年9月 - 2020年6月)，江苏南京
-  + 取得理学学士学位（计算机科学与技术专业）
+  + 取得理学学士学位（计算机科学与技术）
   + 基础学科拔尖计划-计算机科学班
 
 - <img src="pic/nj.jpeg" style="zoom:2%;" /> **江苏省南菁高级中学** (2013年9月 - 2016年6月)，江苏江阴
