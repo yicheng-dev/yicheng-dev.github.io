@@ -23,7 +23,7 @@
   + 从事“AI+教育”产品 [Coursemology Child](https://child.coursemology.cn) 的全栈开发（React+Golang）、AI Agent研发（基于大模型的AI出题、批改、答疑、伴学，涵盖教学全过程）、软件测试与部署维护
 
 - <img src="pic/wx.jpeg" style="zoom:5%;" /> **无锡市公安局网安支队** (2023年8月 - 2023年12月)，江苏无锡
-  + 公务员（民警）& 选调生
+  + 江苏省选调生、公务员（网安民警）
   + 从事网络安全相关工作
 
 ## 教育经历
