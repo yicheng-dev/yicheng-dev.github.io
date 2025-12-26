@@ -81,9 +81,9 @@ I have obtained a B.Sc. degree and a M.Sc. degree from Nanjing University, both 
 
 ## Hobbies
 
-- 📷 Photograph (Fujifilm X-T30ii & 🤫 My GF's Lumix G100M)
-- 📺 Watching Bilibili Videos (Fans of [@食贫道](https://space.bilibili.com/39627524))
-- 📚 Reading (History & Sci-fi)
-- 🚶 Travelling (from China to the World)
+- 📺 Watching Bilibili Videos (Fans of [@食贫道](https://space.bilibili.com/39627524), [@波士顿圆脸](https://space.bilibili.com/346563107), and [@小约翰可汗](https://space.bilibili.com/23947287))
+- 💻 Games (Where Winds Meet, Civilization VI, Stardew Valley, ...)
+- 🍳 Cooking
+- 📷 Photograph
 
-> Last Updated: Nov 18, 2025
+> Last Updated: Dec 26, 2025
