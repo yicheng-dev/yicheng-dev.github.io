@@ -40,8 +40,8 @@ I have obtained a B.Sc. degree and a M.Sc. degree from Nanjing University, both 
 ## Pubs & Patents
 
 1. **Yicheng Huang**, Chang Xu, Yanyan Jiang, Huiyan Wang, and Da Li, "WARDER: Towards Effective Spreadsheet Defect Detection by Validity-based Cell Cluster Refinements", Journal of Systems and Software (JSS), Volume 167, 2020, 110615. <a href="https://doi.org/10.1016/j.jss.2020.110615">[web]</a> <a href="https://njubroccoli.github.io/publications/huang_2020_warder.pdf">[pdf]</a>
-2. 蒋炎岩，**黄奕诚**，许畅. 一种电子表格公式计算规则逆向工程方法. 发明专利，申请号: 2023103290575. 申请日: 2023.03.30.
-3. 许畅，蒋炎岩，**黄奕诚**，陈钦霖，石丰民. 基于视频动态分析的电子表格公式合成与错误检测方法. 发明专利，专利号: ZL2019113070147. 授权公告日: 2023.04.25.
+2. Yanyan Jiang, **Yicheng Huang**, and Chang Xu, "A Method for Reverse Engineering of Spreadsheet Formula Calculation Rules", Chinese Patent, Patent No.: ZL2023103290575. Granted. (Implemented in Python)
+3. Chang Xu, Yanyan Jiang, **Yicheng Huang**, Qinlin Chen, and Fengmin Shi, "A Method for Synthesizing and Detecting Spreadsheet Formula Errors Based on Video Dynamic Analysis", Chinese Patent, Patent No.: ZL2019113070147. Granted in 2023-04-25. (Implemented in Java/Android)
 
 <!-- ## Projects
 
