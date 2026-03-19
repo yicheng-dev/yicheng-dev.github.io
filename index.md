@@ -86,4 +86,4 @@ I have obtained a B.Sc. degree and a M.Sc. degree from Nanjing University, both 
 - 🍳 Cooking
 - 📷 Photograph
 
-> Last Updated: Dec 26, 2025
+> Last Updated: Mar 19, 2026
